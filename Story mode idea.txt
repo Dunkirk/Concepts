@@ -7,3 +7,9 @@ every area also contains also a boss fight at the end.
 
 With the Hytale modelmaker, we are able to create our own mobs and creatures to fight against or interact with,
 every area has to contain his own style and creatures to make it unique.
+
+Dungeon Concept Idea for storymode:
+There will be a leaderboard located at each dungeons entrance.
+2 types of ranking - one for first clear and time run
+First clear is when a party of players or clans are the first to clear a dungeon. Their name will be placed at a special place on the leaderboard.
+Time run is basically everybody compete for the fastest time to complete a dungeon. The fastest time to complete a dungeon will place first on the leaderboard and the next fastest time will be the runner-ups. The placings on the leaderboard can change depending on the time taken to complete the dungeon. Each dungeon will have their own leaderboard.
